@@ -1,0 +1,12 @@
+---
+:id: 24498778
+:submitters:
+- :name: Mahima Rathore
+  :email: mrathore@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-12 17:43:35.122864000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-12 09:43:35.122864000 Z
+:status: processed
+:score: 50.0
